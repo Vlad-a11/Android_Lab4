@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Животные Казахстана</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Животные Казахстана</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Бонус</string>
+    <string name="lit">Литература</string>
+    <string name="autor">Еленич В.А.</string>
+
+    <string name="additional">Почитать</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://natworld.info/zhivotnye/kakie-zhivotnye-obitajut-v-kazahstane/</string>
+    <string name="spy_soft">https://natworld.info/zhivotnye/fauna-evropy-spisok-nazvanija-harakteristika-i-foto-zhivotnyh/</string>
+    <string name="securitylab">https://natworld.info/zhivotnye/fauna-azii-spisok-vidy-opisanie-i-foto-aziatskih-zhivotnyh/</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">varik759153@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте !</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>
